@@ -39,6 +39,11 @@ class Microwave {
 			thingToBeCooked.eat();
 		}
 	}
+
+	void thingToBeCooked(Popcorn pop) {
+		// TODO Auto-generated method stub
+		
+	}
 }
 
 public class Popcorn {
